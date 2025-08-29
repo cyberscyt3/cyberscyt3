@@ -14,8 +14,6 @@ Faço faculdade na Fatec Ourinhos - Faculdade de Tecnologia de Ourinhos e estou 
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=cyberscyt3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div> 
 
-![Snake animation](https://github.com/seu-usuário-aqui/cyberscyt3/blob/output/github-contribution-grid-snake.svg)
-
 ## Contatos:
 <div>
 <a href="https://www.linkedin.com/in/mateus-francisco-venâncio-de-oliveira-7922a4304" target="_blank"><img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/></a>
