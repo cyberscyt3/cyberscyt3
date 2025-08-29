@@ -18,8 +18,8 @@ Faço faculdade na Fatec Ourinhos - Faculdade de Tecnologia de Ourinhos e estou 
 <a href="https://github.com/cyberscyt3">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyberscyt3&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=cyberscyt3&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://tenor.com/view/demon-slayer-genya-demon-slayer-kimetsu-no-yaiba-genya-gif-7678103479526093707)) 
+</div> 
 
 ![Snake animation](https://github.com/seu-usuário-aqui/cyberscyt3/blob/output/github-contribution-grid-snake.svg)
+
+![É isso!]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://tenor.com/view/demon-slayer-genya-demon-slayer-kimetsu-no-yaiba-genya-gif-7678103479526093707))
