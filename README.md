@@ -6,7 +6,7 @@ Pretendo me tornar um Desenvolvedor Full Stack no futuro. No meu tempo livre, go
 Faço faculdade na Fatec Ourinhos - Faculdade de Tecnologia de Ourinhos e estou cursando Segurança da Informação, além de estudar programação por cursos da web.
 
 ## Estou aprendendo:
-<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> <img width="48" height="48" src="https://img.icons8.com/nolan/64/php--v2.png" alt="php--v2"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/vmware-workstation-player.png" alt="vmware-workstation-player"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> <img width="48" height="48" src="https://img.icons8.com/nolan/64/php--v2.png" alt="php--v2"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/vmware-workstation-player.png" alt="vmware-workstation-player"/> <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-linux-a-family-of-open-source-unix-like-operating-systems-based-on-the-linux-kernel-logo-color-tal-revivo.png" alt="external-linux-a-family-of-open-source-unix-like-operating-systems-based-on-the-linux-kernel-logo-color-tal-revivo"/>
 
 <div>
 <a href="https://github.com/cyberscyt3">
