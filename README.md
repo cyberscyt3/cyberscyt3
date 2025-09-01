@@ -1,5 +1,4 @@
 # Olá, me chamo Mateus Francisco! 
-## Este é meu perfil do GitHub 👋
 
 Moro em Bernardino de Campos, tenho 19 anos e sou um aspirante a Desenvolvedor Web😅<br>
 Pretendo me tornar um Desenvolvedor Full Stack no futuro. No meu tempo livre, gosto de andar de moto, jogar no computador, ouvir música e aprimorar minhas habilidades na área.
